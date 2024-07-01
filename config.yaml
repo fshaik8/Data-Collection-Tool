@@ -1,0 +1,39 @@
+data_sources:
+  FRED:
+    base_url: https://api.stlouisfed.org/fred
+    endpoints:
+      gdp_data:
+        method: GET
+        params:
+          api_key: f558215ec030bdee86cfeaa7b458988d
+          file_type: json
+          observation_end: '2023-12-31'
+          observation_start: '2010-01-01'
+          series_id: GDP
+        path: /series/observations
+      interest_rate_data:
+        method: GET
+        params:
+          api_key: f558215ec030bdee86cfeaa7b458988d
+          file_type: json
+          observation_end: '2023-12-31'
+          observation_start: '2010-01-01'
+          series_id: FEDFUNDS
+        path: /series/observations
+  USDA_ARMS:
+    base_url: https://api.ers.usda.gov/data/arms
+    endpoints:
+      state_data:
+        method: GET
+        params:
+          api_key: Hi7POq3tdlGDtch8FlngMkHmEfFuZmmELgqnKKhL
+          category: NASS Regions
+          state: all
+          variable: igcfi
+          year: '2020'
+        path: /surveydata
+      yearly_data:
+        method: GET
+        params:
+          api_key: Hi7POq3tdlGDtch8FlngMkHmEfFuZmmELgqnKKhL
+        path: /year
