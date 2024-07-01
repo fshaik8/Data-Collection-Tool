@@ -109,7 +109,7 @@ data_sources:
 ```
 
 ### Data Storage
-The collected data will be stored in structured files (e.g., CSV, JSON) or a database (e.g., PostgreSQL) based on your configuration.
+The collected data will be stored in structured files (e.g., CSV, JSON).
 
 ## Contributing Guidelines
 
