@@ -139,3 +139,7 @@ A: Check the log file `data_collection.log` for detailed error messages and trou
 
 ## Known Issues
 - List any known issues or bugs here.
+
+## Tutorial Video
+
+[Watch the tutorial on Loom](https://www.loom.com/share/4acf2373baf44b40bf85dab967ab9ed1?sid=27e6d0a4-bac8-4cf0-be64-7d40b0695cd0)
