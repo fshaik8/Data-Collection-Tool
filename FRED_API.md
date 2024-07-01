@@ -1,5 +1,3 @@
-#### FRED_API.md
-```markdown
 # FRED API Documentation
 
 **Base URL:** `https://api.stlouisfed.org/fred`
