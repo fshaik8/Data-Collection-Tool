@@ -1,46 +1,46 @@
-2024-07-01 06:07:48,371 - INFO - Logging setup complete. This is a test log message.
-2024-07-01 06:07:48,385 - INFO - Mounting Google Drive
-2024-07-01 06:07:48,929 - INFO - Google Drive mounted successfully.
-2024-07-01 06:07:48,936 - INFO - Loading Configuration File
-2024-07-01 06:07:48,977 - INFO - Configuration file loaded successfully.
-2024-07-01 06:07:48,994 - INFO - Processing USDA Data
-2024-07-01 06:07:49,009 - INFO - Fetching USDA Data for state_data
-2024-07-01 06:07:49,015 - INFO - Making API Request to https://api.ers.usda.gov/data/arms/surveydata
-2024-07-01 06:07:49,831 - INFO - API request successful for https://api.ers.usda.gov/data/arms/surveydata
-2024-07-01 06:07:49,840 - INFO - Fetching USDA Data for yearly_data
-2024-07-01 06:07:49,853 - INFO - Making API Request to https://api.ers.usda.gov/data/arms/year
-2024-07-01 06:07:50,324 - INFO - API request successful for https://api.ers.usda.gov/data/arms/year
-2024-07-01 06:07:50,338 - INFO - Cleaning Data
-2024-07-01 06:07:50,429 - INFO - Data cleaned successfully.
-2024-07-01 06:07:50,456 - INFO - Saving JSON Data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.json
-2024-07-01 06:07:50,479 - INFO - Saved JSON data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.json
-2024-07-01 06:07:50,507 - INFO - Saving CSV Data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.csv
-2024-07-01 06:07:50,533 - INFO - Saved CSV data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.csv
-2024-07-01 06:07:50,542 - INFO - Cleaning Data
-2024-07-01 06:07:50,556 - INFO - Data cleaned successfully.
-2024-07-01 06:07:50,574 - INFO - Saving JSON Data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.json
-2024-07-01 06:07:50,607 - INFO - Saved JSON data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.json
-2024-07-01 06:07:50,618 - INFO - Saving CSV Data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.csv
-2024-07-01 06:07:50,648 - INFO - Saved CSV data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.csv
-2024-07-01 06:07:50,657 - INFO - USDA data processing completed successfully.
-2024-07-01 06:07:50,664 - INFO - Processing FRED Data
-2024-07-01 06:07:50,670 - INFO - Fetching FRED Data for gdp_data
-2024-07-01 06:07:50,677 - INFO - Making API Request to https://api.stlouisfed.org/fred/series/observations
-2024-07-01 06:07:50,980 - INFO - API request successful for https://api.stlouisfed.org/fred/series/observations
-2024-07-01 06:07:50,993 - INFO - Fetching FRED Data for interest_rate_data
-2024-07-01 06:07:51,002 - INFO - Making API Request to https://api.stlouisfed.org/fred/series/observations
-2024-07-01 06:07:51,104 - INFO - API request successful for https://api.stlouisfed.org/fred/series/observations
-2024-07-01 06:07:51,114 - INFO - Cleaning Data
-2024-07-01 06:07:51,132 - INFO - Data cleaned successfully.
-2024-07-01 06:07:51,150 - INFO - Saving JSON Data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.json
-2024-07-01 06:07:51,173 - INFO - Saved JSON data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.json
-2024-07-01 06:07:51,182 - INFO - Saving CSV Data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.csv
-2024-07-01 06:07:51,199 - INFO - Saved CSV data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.csv
-2024-07-01 06:07:51,208 - INFO - Cleaning Data
-2024-07-01 06:07:51,233 - INFO - Data cleaned successfully.
-2024-07-01 06:07:51,245 - INFO - Saving JSON Data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.json
-2024-07-01 06:07:51,261 - INFO - Saved JSON data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.json
-2024-07-01 06:07:51,272 - INFO - Saving CSV Data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.csv
-2024-07-01 06:07:51,313 - INFO - Saved CSV data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.csv
-2024-07-01 06:07:51,324 - INFO - FRED data processing completed successfully.
-2024-07-01 06:07:51,335 - INFO - Data Processing Completed
+2024-07-01 15:59:08,533 - INFO - Logging setup complete. This is a test log message.
+2024-07-01 15:59:08,546 - INFO - Mounting Google Drive
+2024-07-01 15:59:09,288 - INFO - Google Drive mounted successfully.
+2024-07-01 15:59:09,298 - INFO - Loading Configuration File
+2024-07-01 15:59:09,326 - INFO - Configuration file loaded successfully.
+2024-07-01 15:59:09,335 - INFO - Processing USDA Data
+2024-07-01 15:59:09,347 - INFO - Fetching USDA Data for state_data
+2024-07-01 15:59:09,354 - INFO - Making API Request to https://api.ers.usda.gov/data/arms/surveydata
+2024-07-01 15:59:10,258 - INFO - API request successful for https://api.ers.usda.gov/data/arms/surveydata
+2024-07-01 15:59:10,269 - INFO - Fetching USDA Data for yearly_data
+2024-07-01 15:59:10,276 - INFO - Making API Request to https://api.ers.usda.gov/data/arms/year
+2024-07-01 15:59:10,504 - INFO - API request successful for https://api.ers.usda.gov/data/arms/year
+2024-07-01 15:59:10,518 - INFO - Cleaning Data
+2024-07-01 15:59:10,586 - INFO - Data cleaned successfully.
+2024-07-01 15:59:10,610 - INFO - Saving JSON Data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.json
+2024-07-01 15:59:10,630 - INFO - Saved JSON data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.json
+2024-07-01 15:59:10,654 - INFO - Saving CSV Data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.csv
+2024-07-01 15:59:10,691 - INFO - Saved CSV data for state_data to /content/drive/MyDrive/Intern Task/USDA/state_data.csv
+2024-07-01 15:59:10,700 - INFO - Cleaning Data
+2024-07-01 15:59:10,710 - INFO - Data cleaned successfully.
+2024-07-01 15:59:10,720 - INFO - Saving JSON Data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.json
+2024-07-01 15:59:10,738 - INFO - Saved JSON data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.json
+2024-07-01 15:59:10,754 - INFO - Saving CSV Data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.csv
+2024-07-01 15:59:10,784 - INFO - Saved CSV data for yearly_data to /content/drive/MyDrive/Intern Task/USDA/yearly_data.csv
+2024-07-01 15:59:10,793 - INFO - USDA data processing completed successfully.
+2024-07-01 15:59:10,803 - INFO - Processing FRED Data
+2024-07-01 15:59:10,812 - INFO - Fetching FRED Data for gdp_data
+2024-07-01 15:59:10,821 - INFO - Making API Request to https://api.stlouisfed.org/fred/series/observations
+2024-07-01 15:59:11,221 - INFO - API request successful for https://api.stlouisfed.org/fred/series/observations
+2024-07-01 15:59:11,234 - INFO - Fetching FRED Data for interest_rate_data
+2024-07-01 15:59:11,243 - INFO - Making API Request to https://api.stlouisfed.org/fred/series/observations
+2024-07-01 15:59:11,393 - INFO - API request successful for https://api.stlouisfed.org/fred/series/observations
+2024-07-01 15:59:11,402 - INFO - Cleaning Data
+2024-07-01 15:59:11,414 - INFO - Data cleaned successfully.
+2024-07-01 15:59:11,435 - INFO - Saving JSON Data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.json
+2024-07-01 15:59:11,459 - INFO - Saved JSON data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.json
+2024-07-01 15:59:11,469 - INFO - Saving CSV Data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.csv
+2024-07-01 15:59:11,487 - INFO - Saved CSV data for gdp_data to /content/drive/MyDrive/Intern Task/FRED/gdp_data.csv
+2024-07-01 15:59:11,504 - INFO - Cleaning Data
+2024-07-01 15:59:11,526 - INFO - Data cleaned successfully.
+2024-07-01 15:59:11,539 - INFO - Saving JSON Data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.json
+2024-07-01 15:59:11,564 - INFO - Saved JSON data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.json
+2024-07-01 15:59:11,580 - INFO - Saving CSV Data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.csv
+2024-07-01 15:59:11,599 - INFO - Saved CSV data for interest_rate_data to /content/drive/MyDrive/Intern Task/FRED/interest_rate_data.csv
+2024-07-01 15:59:11,609 - INFO - FRED data processing completed successfully.
+2024-07-01 15:59:11,617 - INFO - Data Processing Completed
